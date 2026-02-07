@@ -1,0 +1,5 @@
+# Ignore all csv files into the data folder 
+data/raw/*.csv
+data/processed/*.csv
+
+!data/raw/.gitkeep
